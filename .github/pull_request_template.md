@@ -1,24 +1,24 @@
-### Descripción del cambio
-Por favor, proporciona una descripción detallada de los cambios realizados en este Pull Request.
+## 📝 Descripción
+Resumen breve de los cambios realizados.
 
-### ¿Cuál es el contexto de este cambio?
-Explica el contexto y por qué se necesita este cambio. Por ejemplo, si cierra un issue, menciónalo aquí.
+## 🎯 Contexto
+¿Por qué se hace este cambio?
+Ej: corrige bug, mejora rendimiento, refactor, nueva feature.
 
-### ¿Cómo se probaron estos cambios?
-Describe los pasos que tomaste para probar que los cambios funcionan como se espera.
+## 🧪 Cómo probarlo
+Pasos para validar el cambio:
+1.
+2.
+3.
 
-### Captura de pantalla (si aplica)
-Si los cambios afectan a la interfaz de usuario, por favor adjunta capturas de pantalla.
+## 📸 Capturas (si aplica)
+Agregar screenshots o GIFs si hay cambios en la UI.
 
-### Checklist
-Asegúrate de marcar las casillas que apliquen.
-- [ ] He seguido las convenciones de estilo de código de este repositorio.
-- [ ] He añadido pruebas unitarias para los cambios que lo requieren.
-- [ ] Todos los tests existentes pasan correctamente con mis cambios.
-- [ ] He documentado adecuadamente los cambios en el código (si aplica).
+## 🔗 Issues relacionados
+Closes #...
 
-### ¿Existen tickets/issues relacionados?
-Vincula cualquier ticket o issue relacionado con este Pull Request usando `#` seguido del número (ej. `Cierra #42`).
-
-### Otros comentarios
-Si alguien tiene una duda, que hable ahora o calle para siempre.
+## ✅ Checklist
+- [ ] Código sigue las convenciones del proyecto
+- [ ] Tests agregados o actualizados (si aplica)
+- [ ] Tests existentes pasan correctamente
+- [ ] Documentación actualizada (si aplica)
